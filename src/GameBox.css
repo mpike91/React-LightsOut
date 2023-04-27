@@ -1,0 +1,16 @@
+.GameBox {
+    width: 500px;
+    text-align: center;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: black solid 1px;
+    display: inline-block;
+    margin: -2px 0px;
+}
+
+.unlit {
+    background-color: gray;
+}
