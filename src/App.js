@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <GameBox x={4} y={4} />
+      <GameBox numRows={4} numCols={4} />
     </div>
   );
 }
